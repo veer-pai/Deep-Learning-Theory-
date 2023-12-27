@@ -1,1 +1,1 @@
-# Deep-Learning-Theory-
+# iNeuron.ai-DeepLearningTheory-Assignments
